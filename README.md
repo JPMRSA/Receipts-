@@ -1,2 +1,1 @@
-# Receipts-
-Receipts Script 
+
